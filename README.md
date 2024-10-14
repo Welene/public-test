@@ -1,2 +1,2 @@
-# public-test
-ny test av repo, public
+# Public test
+Leksjonsrepo 14. Oktober HTML intro
